@@ -1,4 +1,4 @@
-# modern-java-in-action-activestudy
+# modern-java-in-action-study
 책 [Modern Java In Action] 을 스터디합니다.
 
 ---
